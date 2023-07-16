@@ -1,0 +1,15 @@
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/bin/Debug/net6.0/Za1
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/bin/Debug/net6.0/Za1.deps.json
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/bin/Debug/net6.0/Za1.runtimeconfig.json
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/bin/Debug/net6.0/Za1.dll
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/bin/Debug/net6.0/Za1.pdb
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/obj/Debug/net6.0/Za1.csproj.AssemblyReference.cache
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/obj/Debug/net6.0/Za1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/obj/Debug/net6.0/Za1.AssemblyInfoInputs.cache
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/obj/Debug/net6.0/Za1.AssemblyInfo.cs
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/obj/Debug/net6.0/Za1.csproj.CoreCompileInputs.cache
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/obj/Debug/net6.0/Za1.dll
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/obj/Debug/net6.0/refint/Za1.dll
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/obj/Debug/net6.0/Za1.pdb
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/obj/Debug/net6.0/Za1.genruntimeconfig.cache
+/Users/lisa/Desktop/my seminars/Seminar8C/Za1/obj/Debug/net6.0/ref/Za1.dll
